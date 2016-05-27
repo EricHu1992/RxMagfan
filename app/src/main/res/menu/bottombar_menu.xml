@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottomBarItemOne"
+        android:icon="@drawable/ic_nearby"
+        android:title="Hot" />
+
+    <item
+        android:id="@+id/bottomBarItemTwo"
+        android:icon="@drawable/ic_favorites"
+        android:title="Category" />
+
+    <item
+        android:id="@+id/bottomBarItemFour"
+        android:icon="@drawable/ic_friends"
+        android:title="Mine" />
+</menu>
