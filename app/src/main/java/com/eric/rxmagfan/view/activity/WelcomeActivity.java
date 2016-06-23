@@ -5,7 +5,7 @@ import android.view.KeyEvent;
 
 import com.eric.myframework.utils.PreferencesUtils;
 import com.eric.rxmagfan.R;
-import com.eric.rxmagfan.config.PreferencesKey;
+import com.eric.rxmagfan.constant.PreferencesKey;
 import com.eric.rxmagfan.view.BaseActivity;
 
 import java.util.concurrent.TimeUnit;

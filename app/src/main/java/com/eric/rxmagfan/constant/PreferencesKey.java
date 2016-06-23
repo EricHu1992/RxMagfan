@@ -1,4 +1,4 @@
-package com.eric.rxmagfan.config;
+package com.eric.rxmagfan.constant;
 
 /**
  * Created by Eric on 16/5/4.
